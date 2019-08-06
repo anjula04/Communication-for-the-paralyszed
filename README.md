@@ -1,6 +1,6 @@
 # Communication-for-the-paralyzed
 
-Hiru is couragous boy who is recovering from a brain injury with severe damage to the motor cortex. This project aims to help him communicate during the rehabilitation. The conent is uploaded with his and parents consent.
+Hiru is courageous boy who is recovering from a brain injury with severe damage to the motor cortex. This project aims to help him communicate during the rehabilitation. The content is uploaded with his and parents consent.
 For more information read: 
 - [In a moment a young life was shattered](http://www.sundaytimes.lk/180107/plus/in-a-moment-a-young-life-was-shattered-276072.html)
 - [Dedicated staff at Neuro-trauma unit bring new hope to shattered bodies](http://www.sundaytimes.lk/130428/news/dedicated-staff-at-neuro-trauma-unit-bring-new-hope-to-shattered-bodies-42449.html)
