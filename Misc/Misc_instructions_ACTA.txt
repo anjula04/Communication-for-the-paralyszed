@@ -1,0 +1,12 @@
+Instructions:
+----------------------
+1. Open 'ACAT Dashboard' (on the Desktop)
+2. Select 'App (QWERTY)'
+3 Close 'Talk Window' if you want to use Email or MSWord [Keep the 'Talk Window' if you want text-to-speech]
+4. Open Email or MSWord.
+4.1 Enable the 'Alphabet' window if it is not visible.
+5. Double click 'Enable mouse' (on the Desktop). [regular actions of the mouse will get dissabled. Press 'Esc' key to resume regular mouse button actions.]
+6. Starting typing!
+
+
+(11 Sep 2018)
